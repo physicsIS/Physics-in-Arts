@@ -21,7 +21,7 @@ Algoritmos que convierten fenómenos físicos en composiciones musicales y efect
 
 
 ### 📝 Poetry
-Algoritmos que generan poesía basada en conceptos físicos. [Explorar](/poetry)
+Algoritmos que generan poesía basada en conceptos físicos. [Explorar](/Poetry)
 - Fermi Poemas
 
 ## 🚀 Comenzando
