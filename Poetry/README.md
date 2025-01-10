@@ -59,10 +59,9 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @article{badilla2024astrophysical,
-  title={Astrophysical Narratives: Poetic Representations of Gamma-Ray Emission via Markov Chains},
+  title={Astrophysical Narratives: Poetic Representations of Gamma-Ray Emission from FermiLAT via Markov Chains},
   author={Badilla Cerdas, Carlos Darío},
-  journal={},
-  year={2024}
+  year={2025}
 }
 ```
 
@@ -75,8 +74,6 @@ If you use this code in your research, please cite:
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
 
 ## 🙏 Acknowledgments
 
