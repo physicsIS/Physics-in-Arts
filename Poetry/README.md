@@ -35,8 +35,13 @@ This project explores the intersection of high-energy astrophysics and poetry by
 ## 📊 Example Output
 
 ```
+Hablamos sin tregua cumplida,
+agitando la proporción que cifra nuestra agonía.
+Sentimos el estrujar del alma, cuando nos detenemos
+a contemplar tu río cristalino y conectar con lo divino. 
+Tocándonos a escondidas, publicándonos en serie,
+y creceremos más tarde.
 
-[...]
 ```
 
 ## 🔬 Scientific Background
