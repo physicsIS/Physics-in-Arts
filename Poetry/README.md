@@ -1,4 +1,4 @@
-# Astrophysical Narratives: Poetic Representations of Gamma-Ray Emission
+# Astrophysical Narratives: Poetic Representations of Gamma-Ray Emission from FermiLAT via Markov Chains
 
 _Transforming the universe's most energetic phenomena into poetry through Markov Chains_
 
@@ -8,7 +8,7 @@ _Transforming the universe's most energetic phenomena into poetry through Markov
 
 ## 📝 About
 
-This project explores the intersection of high-energy astrophysics and concrete poetry by implementing a Markov chain-based algorithm that transforms gamma-ray emission maps into poetic narratives. The algorithm processes data from the Fermi Large Area Telescope (FermiLAT), converting the universe's most energetic phenomena into literary expressions.
+This project explores the intersection of high-energy astrophysics and poetry by implementing a Markov chain-based algorithm that transforms gamma-ray emission maps into poetic narratives. The algorithm processes data from the Fermi Large Area Telescope (FermiLAT), converting the universe's most energetic phenomena into literary expressions.
 
 ## 🌟 Features
 
@@ -17,18 +17,6 @@ This project explores the intersection of high-energy astrophysics and concrete 
 - **Visualization Tools**: Create visual representations of both gamma-ray maps and resulting poetry
 - **Customizable Parameters**: Adjust poetry generation parameters and source region selection
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-```bash
-python >= 3.8
-numpy
-astropy
-gammapy
-nltk
-matplotlib
-```
 ## 🎯 Algorithm Overview
 
 1. **Data Processing**
